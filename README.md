@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdul ghufran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul ghufran" height="30" width="40" /></a>
-<a href="https://fb.com/abdul ghufran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul ghufran" height="30" width="40" /></a>
+<a href="https://fb.com/abdul.ghufran.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul.ghufran.75" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-ghufran-khan&show_icons=true&locale=en&layout=compact" alt="abdul-ghufran-khan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul Ghufran&show_icons=true&locale=en" alt="Abdul Ghufran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-ghufran-khan&show_icons=true&locale=en" alt="abdul-ghufran-khan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul Ghufran&" alt="Abdul Ghufran" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-ghufran-khan&" alt="abdul-ghufran-khan" /></p>
