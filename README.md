@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-ghufran-khan&show_icons=true&locale=en&layout=compact" alt="abdul-ghufran-khan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-ghufran-khan&show_icons=true&locale=en" alt="abdul-ghufran-khan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul Ghufran&show_icons=true&locale=en" alt="Abdul Ghufran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-ghufran-khan&" alt="abdul-ghufran-khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul Ghufran&" alt="Abdul Ghufran" /></p>
