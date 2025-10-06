@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-ghufran-khan" alt="abdul-ghufran-khan" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Cloud Data Engineering**
 
 - 📫 How to reach me **abdulghufran267@gmail.com**
 
